@@ -24,7 +24,7 @@ A simple and responsive Shopping Cart web application built using **HTML**, **CS
 
 ## 📸 Preview
 
-![Screenshot](screenshot .png)
+![Screenshot](screenshot.png)
 
 ---
 
